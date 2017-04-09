@@ -1,6 +1,7 @@
 {
   "description": "small project to convert",
   "repository": "https://github.com/DjThossi/image-converter",
+  "license": "MIT",
   "dependencies": {
     "easyimage": "~2.1.0"
   }
